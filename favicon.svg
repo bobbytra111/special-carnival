@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Offgrid Atelier">
-  <rect width="64" height="64" rx="10" fill="#111111"/>
-  <path d="M14 18h18l6 10h-9l4 8h-9l-10-18Z" fill="#c8ff3d"/>
-  <path d="M36 14h14v8H42v6h7v8h-7v14h-6V14Z" fill="#ff5a3d"/>
-</svg>
-
